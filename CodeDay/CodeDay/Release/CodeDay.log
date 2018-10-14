@@ -1,0 +1,10 @@
+﻿  Boss.cpp
+  Functions.cpp
+  main.cpp
+main.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(18): warning C4101: 'direction': unreferenced local variable
+  Generating code
+  All 557 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CodeDay.vcxproj -> C:\Users\CHRPETE1\Documents\Visual Studio 2015\Projects\CodeDay\Release\CodeDay.exe
+  CodeDay.vcxproj -> C:\Users\CHRPETE1\Documents\Visual Studio 2015\Projects\CodeDay\Release\CodeDay.pdb (Full PDB)

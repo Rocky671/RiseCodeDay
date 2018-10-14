@@ -1,0 +1,7 @@
+﻿  Boss.cpp
+  Functions.cpp
+  main.cpp
+c:\users\rocvarga\downloads\codeday\codeday\codeday\main.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rocvarga\downloads\codeday\codeday\codeday\main.cpp(18): warning C4101: 'direction': unreferenced local variable
+  Generating Code...
+  CodeDay.vcxproj -> C:\Users\rocvarga\Downloads\CodeDay\CodeDay\Debug\CodeDay.exe
